@@ -5,4 +5,4 @@ A command-line tool built for common networking tasks.Currently includes a subne
 ### How to Run 
 1. Clone this repository 
 2. Run the script
-3. Enter an IP address with CIDR notation when asked 
+3. Follow the prompts to enter the required information 
